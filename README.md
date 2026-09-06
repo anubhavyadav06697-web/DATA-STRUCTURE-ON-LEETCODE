@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
