@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1729-find-followers-count) |
 | [1890-the-latest-login-in-2020](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
