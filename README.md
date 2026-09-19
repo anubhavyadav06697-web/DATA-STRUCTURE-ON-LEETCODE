@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3570-find-books-with-no-available-copies](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/3570-find-books-with-no-available-copies) |
