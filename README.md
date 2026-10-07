@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/anubhavyadav06697-web/DATA-STRUCTURE-ON-LEETCODE/tree/master/3475-dna-pattern-recognition) |
